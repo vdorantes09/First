@@ -5,4 +5,4 @@ My first website
 ![awesome day](Luna Paddleboard.jpeg)
 
 ## My Favorite Website
-[Free Anime](https://www.wcofun.net/)
+[no subscription anime](https://www.wcofun.net/)
