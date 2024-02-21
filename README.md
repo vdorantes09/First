@@ -2,7 +2,7 @@
 My first website
 
 ## My Favorite class
-![awesome day](Luna Paddleboard.jpeg)
+![awesome day](LunaPaddleboard.jpeg)
 
 ## My Favorite Website
 [no subscription anime](https://www.wcofun.net/)
