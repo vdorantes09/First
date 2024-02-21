@@ -2,4 +2,4 @@
 My first website
 
 ## My Favorite class
-![](Luna Paddleboard.jpeg)
+![awesome day](Luna Paddleboard.jpeg)
