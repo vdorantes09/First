@@ -6,3 +6,4 @@ My first website
 
 ## My Favorite Website
 [no subscription anime :smirk:](https://www.wcofun.net/)
+activity: Mars
