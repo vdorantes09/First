@@ -1,4 +1,5 @@
 # First
+![awesome day](LunaPaddleboard.jpeg)
 My first website
 
 ## My Favorite class
